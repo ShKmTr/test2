@@ -1,5 +1,5 @@
 <p align="center"> 
-// ### :heart: Mainnets 
+### :heart: Mainnets 
 </p>
 
 <p>&nbsp;</p>
