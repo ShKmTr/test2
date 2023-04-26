@@ -1,5 +1,16 @@
-| <!-- -->      | <!-- -->        | <!-- -->      |
-|:-------------:|:---------------:|:-------------:|
-| Row 1         | **Bold**        | Cell 3        |
-| Row 2         | *Italic*        | Cell 6        |
-| Row 3         | ~~Strike~~      | Cell 9        |
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
+| Column One    | Column Two    |                                                                                                                                                   
+| ---           | ---           |                                                                                                                                                   
+| data cell one | data cell two |     
