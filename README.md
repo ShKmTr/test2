@@ -1,6 +1,6 @@
 ### :heart: Mainnets
 
-<div> <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg" data-size="original"> </div> <div> <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/umee.svg" data-size="original"> </div>
+[logo]: https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg "Logo Title Text 2"
 
 <p>&nbsp;</p>
 
