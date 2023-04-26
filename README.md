@@ -1,2 +1,2 @@
 ### :heart: Mainnets
-[Nois](mainnets/nois/) <p>&nbsp;</p> [Umee](mainnets/umee/)
+[Nois](mainnets/nois/) &nbsp; [Umee](mainnets/umee/)
