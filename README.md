@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg" width="80"> &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/umee.svg" width="80">
+<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg" width="70"> &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/umee.svg" width="80">
 
 &emsp; [Nois](mainnets/nois/) &emsp; &emsp; &emsp; &emsp; &nbsp; [Umee](mainnets/umee/)
 
