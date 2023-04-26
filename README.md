@@ -1,6 +1,6 @@
 ### :heart: Mainnets
 
-![The GitBook Logo](https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg)
+<figure><img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg" alt="Nois"></figure>
 
 <p>&nbsp;</p>
 
