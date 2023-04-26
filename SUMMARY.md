@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Chain services](README.html)
+* [Chain services](README.md)
