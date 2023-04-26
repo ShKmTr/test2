@@ -6,7 +6,7 @@
 
 &nbsp; [Nois](mainnets/nois/) &emsp; &emsp; &emsp; [Umee](mainnets/umee/)
 
-### :heart: Testnets
+<h2 align="center">:heart: Testnets</h2>
 
 <p>&nbsp;</p>
 
