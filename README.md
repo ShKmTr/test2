@@ -1,8 +1,5 @@
-:::row:::
-   :::column span="1":::
-      Content...
-   :::column-end:::
-   :::column span="1":::
-      More content...
-   :::column-end:::
-:::row-end:::
+| <!-- -->      | <!-- -->        | <!-- -->      |
+|:-------------:|:---------------:|:-------------:|
+| Row 1         | **Bold**        | Cell 3        |
+| Row 2         | *Italic*        | Cell 6        |
+| Row 3         | ~~Strike~~      | Cell 9        |
