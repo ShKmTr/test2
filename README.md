@@ -2,7 +2,6 @@
 
 <figure><img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg" alt="Nois"></figure>
 
-<p>&nbsp;</p>
 
 [Nois](mainnets/nois/) &emsp; &emsp; &emsp; [Umee](mainnets/umee/)
 
