@@ -1,4 +1,4 @@
-### :heart Mainnets
+### :heart: Mainnets
 
 <p>&nbsp;</p>
 
@@ -6,7 +6,7 @@
 
 &emsp; [Nois](mainnets/nois/) &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; [Umee](mainnets/umee/)
 
-### :heart Testnets
+### :heart: Testnets
 
 <p>&nbsp;</p>
 
