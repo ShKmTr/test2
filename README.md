@@ -10,7 +10,7 @@
 
 <p>&nbsp;</p>
 
-<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/andromeda.png" width="80"> &emsp; &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/babylon.png" alt=""> &emsp; &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/defund.png" alt=""> &emsp; &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/haqq.svg" alt=""> &emsp; &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/humans.png" alt=""> &emsp; &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/lava.svg" alt=""> 
+<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/andromeda.png" width="100"> &emsp; &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/babylon.png" alt=""> &emsp; &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/defund.png" alt=""> &emsp; &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/haqq.svg" alt=""> &emsp; &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/humans.png" alt=""> &emsp; &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/lava.svg" alt=""> 
 
 &nbsp; [Andromeda](testnets/andromeda/) &emsp; &emsp; &emsp; &emsp; &emsp; [Babylon](testnets/baylon/) &emsp; &emsp; &emsp; &emsp; &ensp; [Defund](testnets/defund/) &emsp; &emsp; &emsp; &emsp; &ensp; [HAQQ](testnets/haqq/) &emsp; &emsp; &emsp; &emsp; &ensp; [Humans](testnets/humans/)  &emsp; &emsp; &emsp; &emsp; &ensp; [Lava](testnets/lava/)
 
