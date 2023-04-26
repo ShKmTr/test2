@@ -24,4 +24,4 @@
 
 &ensp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/lava.svg" width="70"> 
 
-&ensp; [Lava](testnets/lava/)
+&ensp; &emsp; [Lava](testnets/lava/)
