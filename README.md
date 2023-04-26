@@ -1,4 +1,4 @@
-<h2 align="center">:heart: Mainnets</h2>
+<h2 align="center">:heart: Mainnet</h2>
 
 <p>&nbsp;</p>
 
