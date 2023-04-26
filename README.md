@@ -1,6 +1,6 @@
 ### :heart: Mainnets
 
-<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg" width="70" align="left"> &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/umee.svg" width="80" align="left">
+<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg" data-size="original"> &emsp; &emsp; &emsp; <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/umee.svg" data-size="original">
 
 <p>&nbsp;</p>
 
