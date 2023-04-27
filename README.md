@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/humans.png" alt="" data-size="line"> [Humans](testnet/humans/)
 
-<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/lava.png" alt="" data-size="line"> [Lava](testnet/lava/)
+<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/lava.svg" alt="" data-size="line"> [Lava](testnet/lava/)
 
 <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg" alt="" data-size="line"> [Nois](testnet/nois/)
 
