@@ -1,8 +1,7 @@
 ### :heart: Mainnets
 
-<figure><img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg"><figcaption><p>Nois</p></figcaption></figure>
+<img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg" alt="" data-size="line"> [Nois](mainnet/nois/)
 
-[Nois](mainnets/nois/) &emsp; &emsp; &emsp; [Umee](mainnets/umee/)
 
 ### :heart: Testnets
 
