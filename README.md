@@ -1,11 +1,11 @@
-### :heart: Mainnets
+## :heart: Mainnets
 
 <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/nois_black.svg" alt="" data-size="line"> [Nois](mainnet/nois/)
 
 <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/umee.svg" alt="" data-size="line"> [Umee](mainnet/umee/)
 
 
-### :heart: Testnets
+## :heart: Testnets
 
 <img src="https://raw.githubusercontent.com/ShKmTr/test2/main/andromeda.png" alt="" data-size="line"> [Andromeda](testnet/andromeda/)
 
